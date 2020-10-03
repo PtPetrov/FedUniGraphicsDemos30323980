@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FedUni Graphics Demos 30323980</string>
+
+    <string-array name="activityItems">
+        <item>Snow Activity</item>
+        <item>Smoke Activity</item>
+        <item>Piano Activity</item>
+    </string-array>
+</resources>

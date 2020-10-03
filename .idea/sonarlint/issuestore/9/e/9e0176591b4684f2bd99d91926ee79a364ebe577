@@ -1,0 +1,11 @@
+
+u
+java:S1450"XRemove the "_itemName" field and declare it as a local variable in the relevant methods.(³áµŸ8Ğ¼°ÔÌ.
+n	java:S116"RRename this field "_intent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¼½Ğ8–Å¸ÔÌ.
+u	java:S116"TRename this field "_listView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ñ¶‚ùÿÿÿÿ8×ôˆÓÌ.
+p	java:S116"TRename this field "_itemName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³áµŸ8ˆš¯ÔÌ.
+z
+java:S1450"XRemove the "_listView" field and declare it as a local variable in the relevant methods.(®Ñ¶‚ùÿÿÿÿ8ğöÓÌ.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(ÌéÁ–8ŸˆÓÌ.
+s
+java:S1450"VRemove the "_intent" field and declare it as a local variable in the relevant methods.(»¼½Ğ8ã»ÔÌ.
