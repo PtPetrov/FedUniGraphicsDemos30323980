@@ -6,4 +6,5 @@
         <item>Smoke Activity</item>
         <item>Piano Activity</item>
     </string-array>
+    <string name="piano_item">Piano</string>
 </resources>

@@ -1,19 +1,28 @@
 
+P
+java:S1121&".Extract the assignment out of this expression.(¨¯“øÿÿÿÿ8òâŸÖÌ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¤–ø‰ùÿÿÿÿ8ùªı¡Ï.
 K
-java:S1121".Extract the assignment out of this expression.(ŠÓ†¼8®ÃÖÌ.
+java:S1121"".Extract the assignment out of this expression.(‘Õ‡Ö8’Ã‘ôÎ.
+U
+java:S1197
+"8Move the array designator from the variable to the type.(İœÆÇ8øŞÿ¡Ï.
+P
+java:S1121".Extract the assignment out of this expression.(Éş¦Âûÿÿÿÿ8Ó®œÖÌ.
 }
-java:S1450"[Remove the "particleSize" field and declare it as a local variable in the relevant methods.(Ê®£ÿÿÿÿÿ8Ä ÖÌ.
+java:S1450"[Remove the "particleSize" field and declare it as a local variable in the relevant methods.(Ê®£ÿÿÿÿÿ8Ä ÖÌ.
 P
-java:S1121".Extract the assignment out of this expression.(íŸ°ƒøÿÿÿÿ8µñ™ÖÌ.
+java:S1121".Extract the assignment out of this expression.(Å›Äışÿÿÿÿ8ìø“ôÎ.
+U
+java:S1197"8Move the array designator from the variable to the type.(·ØÖÇ8İ—ù¡Ï.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(ò••şıÿÿÿÿ8ë“ÿ¡Ï.
 K
-java:S1121".Extract the assignment out of this expression.(‘†¢•8Ó®œÖÌ.
-P
-java:S1121(".Extract the assignment out of this expression.(´¿ñûüÿÿÿÿ8Ÿñ ÖÌ.
-w
-java:S1450"URemove the "colour" field and declare it as a local variable in the relevant methods.(‰½ÉÙøÿÿÿÿ8·—ÖÌ.
+java:S1121".Extract the assignment out of this expression.(ËûÖö8µñ™ÖÌ.
 £
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¡í³şÿÿÿÿ8öÛÏÕÌ.
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¡í³şÿÿÿÿ8öÛÏÕÌ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¼ÅÅŒøÿÿÿÿ8Ò„¢Ï.
 P
-java:S1121".Extract the assignment out of this expression.(§×Àµıÿÿÿÿ8·—ÖÌ.
-K
-java:S1121$".Extract the assignment out of this expression.(¿•õø8òâŸÖÌ.
+java:S1121*".Extract the assignment out of this expression.(´¿ñûüÿÿÿÿ8Ÿñ ÖÌ.

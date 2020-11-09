@@ -1,8 +1,14 @@
 package com.example.fedunigraphicsdemos30323980.snow;
 
 import static com.example.fedunigraphicsdemos30323980.Utils.randRange;
+/**
+ * @author Petar Petrov
+ * @Student ID: 30323980
+ *
+ */
 
 public class SnowParticle {
+
     private float x;
     private float y;
     private float colour;
@@ -13,36 +19,30 @@ public class SnowParticle {
     public SnowParticle() {
     }
 
-    public float x() {
-        return x = randRange(0, SnowSketch.screenWidth);
-    }
+
+    public float x() { return x = randRange(0, SnowSketch.screenWidth); }
 
     public float y() {
         return y = randRange(0, SnowSketch.screenHeight);
     }
 
-
     public float colour() {
         return colour = randRange(128.0f, 255.0f);
     }
-
 
     public float xSpeed() {
         return xSpeed = randRange(1.0f, 3.0f);
     }
 
-
     public float ySpeed() {
         return ySpeed = randRange(1.0f, 3.0f);
     }
 
-    public int particleSize() {
-        return particleSize = randRange(3, 13);
-    }
+    public int particleSize() { return particleSize  = randRange(3, 13);}
 
     public void update() {
-        x += xSpeed;
-        y += ySpeed;
+        x += xSpeed();
+        y += ySpeed();
 
         if (x > SnowSketch.screenWidth) {
             x = 0.0f;
